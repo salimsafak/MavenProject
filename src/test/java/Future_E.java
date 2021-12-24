@@ -1,4 +1,3 @@
 public class Future_E {
-    //WORK1
-    //WORK2
+   //tHIS IS THE OTHER CONTEND THAT FUTURE_E DOESNT KNOW
 }
